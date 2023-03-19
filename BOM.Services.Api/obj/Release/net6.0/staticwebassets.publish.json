@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R3c4yhua87t5m+MTzW2eTqCbrO0poSQXvmgiEAXxyIc=",
+  "Source": "BOM.Services.Api",
+  "BasePath": "_content/BOM.Services.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

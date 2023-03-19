@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "BOM.Services.Api.Proto";
+
+service OpenviduService {
+	rpc CreateSession (RpcCreateSessionRequest) returns (RpcCreateSessionResponse);
+}
+
+message RpcCreateSessionRequest {
+int32 userId = 1;
+}
+
+message RpcCreateSessionResponse {
+string sessionLink = 1;
+}

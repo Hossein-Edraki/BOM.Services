@@ -1,0 +1,2 @@
+obj\Release\net6.0\Proto/OpenviduService.cs \
+obj\Release\net6.0\Proto/OpenviduServiceGrpc.cs: Proto/OpenviduService.proto
